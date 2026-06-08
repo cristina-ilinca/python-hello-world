@@ -1,0 +1,32 @@
+[
+    {
+        "nume": "Victor Standard",
+        "prioritate": 3,
+        "ora_sosire": "2026-06-08 16:01:43"
+    },
+    {
+        "nume": "pac 1",
+        "prioritate": 2,
+        "ora_sosire": "2026-06-08 16:09:29"
+    },
+    {
+        "nume": "Maria Urgent",
+        "prioritate": 2,
+        "ora_sosire": "2026-06-08 16:01:19"
+    },
+    {
+        "nume": "Ana Marcus",
+        "prioritate": 2,
+        "ora_sosire": "2026-06-08 16:00:59"
+    },
+    {
+        "nume": "Pacient Urgent 3",
+        "prioritate": 1,
+        "ora_sosire": "2026-06-08 16:11:30"
+    },
+    {
+        "nume": "Ioan",
+        "prioritate": 1,
+        "ora_sosire": "2026-06-08 16:02:33"
+    }
+]
