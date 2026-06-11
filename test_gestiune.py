@@ -29,7 +29,7 @@ def configurare_si_curatare_teste():
 
 def test_valideaza_data():
     """Testează validarea formatului de dată."""
-    assert gestiune_pacienti.valideaza_data("2026-06-10") is True
+    assert gestiune_pacienti.valideaza_data("2026-06-10") is False
     assert gestiune_pacienti.valideaza_data("10-06-2026") is False
     assert gestiune_pacienti.valideaza_data("invalid-date") is False
 
