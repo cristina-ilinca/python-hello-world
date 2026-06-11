@@ -1,0 +1,29 @@
+[
+    {
+        "salon": 101,
+        "sectie": "Cardiologie",
+        "paturi_totale": 3,
+        "paturi_ocupate": 2,
+        "pacienti_internati": [
+            101,
+            102
+        ]
+    },
+    {
+        "salon": 102,
+        "sectie": "Chirurgie",
+        "paturi_totale": 2,
+        "paturi_ocupate": 2,
+        "pacienti_internati": [
+            103,
+            104
+        ]
+    },
+    {
+        "salon": 103,
+        "sectie": "Pediatrie",
+        "paturi_totale": 4,
+        "paturi_ocupate": 0,
+        "pacienti_internati": []
+    }
+]
