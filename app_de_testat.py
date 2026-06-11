@@ -2,8 +2,7 @@ import json
 import os
 from datetime import datetime
 
-import sys; print(sys.executable)
-print("[INFO] Testam commitul.")
+# import sys; print(sys.executable)
 
 FICHIER_DATE = "triaj_pacienti.json"
 
