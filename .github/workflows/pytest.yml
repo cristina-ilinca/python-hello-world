@@ -17,7 +17,7 @@ jobs:
     - name: Configureaza Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.11' # Poți schimba cu versiunea ta de Python
+        python-version: '3.12' # Poți schimba cu versiunea ta de Python
 
     - name: Instaleaza dependentele
       run: |
